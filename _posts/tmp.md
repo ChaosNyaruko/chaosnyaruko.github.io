@@ -19,4 +19,6 @@ git config --global --unset http.proxy
 ALL_PROXY=socks5://127.0.0.1:8888 git clone https://github.com/some/one.git
 # blog auto sync to wechat
 https://catcoding.me/2022/01/30/publish-to-wechat.html
+# effective info 
+https://blog.uxwind.com/2021/how-to-get-information.html
 
