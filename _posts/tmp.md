@@ -12,7 +12,7 @@ tags:
     - proxy
 ---
 # Global Settings
-git config --global http.proxy 'socks5://127.0.0.1:7070'
+git config --global http.proxy 'socks5://127.0.0.1:7070'  
 git config --global --unset http.proxy
 # Using Once
 ALL_PROXY=socks5://127.0.0.1:8888 git clone https://github.com/some/one.git
