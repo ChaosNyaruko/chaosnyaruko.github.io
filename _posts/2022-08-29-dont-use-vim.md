@@ -8,7 +8,7 @@ header-img:
 catalog: true
 tags:
     - vim
-	- editors
+    - editors
 ---
 
 [The ORIGINAL post](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370) 
