@@ -41,6 +41,7 @@ Not much experience.
 ## Pros
 - VSCode like, and has its own ecosystems. You can write plugins for coc with ts/js, amazing.
 - Easy installation.
+
 ## Cons
 - Node.js runtime is needed.
 - Management of gopls server instance, I don't know if it is fixed now.
@@ -50,6 +51,7 @@ Not much experience.
 - Built-in for neovim, less dependencies and more performant in theory.
 - Unix-like, atomic, I can configure what to complete easily. (Do not have to read the long documentation). The logic is somehow friendly.
 - You can config your own lsp or lsp-like features easily.
+
 ## Cons
 - Less established.
 - With lots of seperated components, I may have to tune it by myself.
