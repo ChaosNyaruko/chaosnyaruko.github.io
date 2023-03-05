@@ -39,7 +39,7 @@ It depends on your workflow and habits. In general, if you "have to" or "like to
 - Those who would usually work in unix environments, e.g. Linux server maintainers/backend programmers/...
 - Those who always want to improve their workflow, or play with their "own" editors/tools.
 
-# Those For whom vim is not a necessary
+# Those For whom vim is not necessary
 - Those who are really comfortable with their current editors and workflow, and don't want to change.
 - Most frontend programmers (without any discrimination). They rarely depends on the command-line tools, and writing JS/TS code in VSCode is quite comfortable. But the "vim-way" operations is an alternative. 
 - Those who can't endure the bordom or unaccustomedness while learing vim.
