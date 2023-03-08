@@ -13,4 +13,6 @@ ssh -vnNTf -R 3001:localhost:3000  username@host -o 'ProxyCommand=nc -x 127.0.0.
 location /docs/ {
   proxy_pass http://localhost:3001/ # the slash matters
 }
-``
+```
+
+[go cross compile](https://saekiraku.github.io/article/18577/)
