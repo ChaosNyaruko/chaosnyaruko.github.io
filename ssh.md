@@ -70,3 +70,7 @@ go run main.go
 # subprocess.zsh
 echo "Iam a subprocess from main.go, my 'mypath' is: "${mypath}
 ```
+
+brew leaves > leaves 
+
+brew list --cask > cask
