@@ -58,14 +58,15 @@ date --date='@2147483647'
 - vim + fzf
 
 ## tmux (screen)
-https://github.com/tmux/tmux
-- text configured
-- session maintain
-- mux
-- keyboard
-## Vim
-- text configured
-- 基础使用(配置) + 其他命令行工具
+[tmux](https://github.com/tmux/tmux)是一个很有名的“终端复用器”，和screen类似，但功能更丰富，架构更合理。
+- 纯文本配置，.tmux.conf在什么环境都好同步
+- 维持会话和后台任务（ssh时不需要nohup等操作）
+- 一个界面可以分屏/切换布局等，而且也是不受ssh连接影响的
+- 可以纯键盘操作，当然也支持一定程度的鼠标操作，实际使用起来并不违和
+## vim
+“编辑器之神”， 别的不多说
+- 纯文本配置，一套vimrc走天下
+- 基础使用其实并没有想象的那么困难，与其他命令行工具配合和谐
 - 在各个环境下都能用，不止是vim本身，还包括这个键位 (emacs)
 - 各类vim插件
 - 开发环境演示(自定义和插件)，各有各的爱好习惯，仅做演示
