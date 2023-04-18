@@ -1,0 +1,1 @@
+curl -i xxx myip.ipip.net
