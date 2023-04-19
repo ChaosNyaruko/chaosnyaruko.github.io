@@ -57,11 +57,11 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+disqus_username: chaosnyaruko
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   # clientID: 8bece05ff70ca63a25ba                            #生成的clientID
   # clientSecret: 64e21779a8348661a791191f54e7378daab38fa0    #生成的clientSecret
   clientID: 81aec48b31905f5258d0  #生成的clientID for CNAME
