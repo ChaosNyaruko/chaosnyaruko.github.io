@@ -1,1 +1,4 @@
 curl -i xxx myip.ipip.net
+
+/\v^(xx)@!
+https://stackoverflow.com/questions/3883985/vim-regex-how-to-search-for-a-and-b-not-c
