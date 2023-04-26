@@ -2,3 +2,39 @@ curl -i xxx myip.ipip.net
 
 /\v^(xx)@!
 https://stackoverflow.com/questions/3883985/vim-regex-how-to-search-for-a-and-b-not-c
+
+
+ps -eo pid,lstart,cmd
+
+最优秀的产品诞生于最一流的场景
+
+neovim vs vim
+neovim pros:
+- 更自然的默认配置
+- 更开放活跃的社区
+- LSP/treesitter的内置支持
+- Meta键的支持比较好
+- Lua-JIT的高性能
+- 基本上所有vim的插件都能用
+
+cons:
+- 额外安装，不默认带
+- 在一些非主流系统如Solaris上支持可能没那么好
+- 和vim还有是一些功能和API上的区别的
+
+
+文档范例https://tailscale.com/kb/1017/install/
+
+
+
+系列二
+bat
+dig? nslookup?
+traceroute
+dust
+duf
+jq
+cheat
+
+
+
