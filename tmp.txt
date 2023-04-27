@@ -37,4 +37,15 @@ jq
 cheat
 
 
+---
+最优秀的产品诞生于最一流的场景
 
+做成优秀开源项目的Know-How
+- 显著更好的轮子
+- 时间the sooner the better
+- 五分产品，五分运营
+- Build the Contributors Community
+- 早期专注Sweet Spot客户；专注核心功能
+- 目标数字化
+- 领先和透明的产品路线图
+- 平衡（内部支持）、布道和商业化
