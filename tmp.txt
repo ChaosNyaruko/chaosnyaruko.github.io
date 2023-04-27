@@ -49,3 +49,10 @@ cheat
 - 目标数字化
 - 领先和透明的产品路线图
 - 平衡（内部支持）、布道和商业化
+
+
+https://superuser.com/questions/1086175/find-the-location-of-an-alias-definition
+|& short for  2>&1 |
+
+https://apple.stackexchange.com/questions/388622/zsh-zprofile-zshrc-zlogin-what-goes-where
+.zshenv → .zprofile → .zshrc → .zlogin → .zlogout
