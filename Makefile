@@ -4,3 +4,5 @@ template:
 	sed -i .bak "s/YYYY-MM-DD/$(shell date '+%Y-%m-%d')/g" _posts/tmp1.md
 	rm _posts/tmp1.md.bak
 
+serve:
+	bundle exec jekyll serve --livereload
