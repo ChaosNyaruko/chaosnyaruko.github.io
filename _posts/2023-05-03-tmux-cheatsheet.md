@@ -27,24 +27,24 @@ bind-key C-a send-prefix
 ```
 
 # Create Windows
-prefix + c: [c]reate a window
+<kbd>prefix + c</kbd>: [c]reate a window
 
 # Navigation
-prefix + n: go to [n]ext window
+<kbd>prefix + n</kbd>: go to [n]ext window
 
-prefix + p: go to [p]revious window
+<kbd>prefix + p</kbd>: go to [p]revious window
 
-prefix + l: go to [l]ast window
+<kbd>prefix + l</kbd>: go to [l]ast window
 
-prefix + [0-9]: select a specific window
+<kbd>prefix + [0-9]</kbd>: select a specific window
 
 # Split Panes
-prefix + " : split horizontally
+<kbd>prefix + "</kbd> : split horizontally
 
-prefix + % : split vertically
+<kbd>prefix + % </kbd>: split vertically
 
 # Kill Panes
-prefix + x : kill the current pane
+<kbd>prefix + x</kbd>: kill the current pane
 
 You can also type "exit" or press "ctrl-d" instead if you are in a interactive shell
 
@@ -71,22 +71,22 @@ if-shell '[[ $(uname -s) = Linux ]]' {
    bind-key -T copy-mode-vi MouseDragEnd1Pane send-keys -X copy-pipe-and-cancel "pbcopy"
 }
 ```
-prefix + [ : enter copy-mode
+<kbd>prefix + [ </kbd>: enter copy-mode
 
-prefix + ] : paste the most recent paste buffer
+<kbd>prefix + ] </kbd>: paste the most recent paste buffer
 
 # Others
-prefix + , : rename a window
+<kbd>prefix + , </kbd>: rename a window
 
-prefix + o : switch between panes.
+<kbd>prefix + o </kbd>: switch between panes.
 
-prefix + z : zoom the active pane
+<kbd>prefix + z </kbd>: zoom the active pane
 
-prefix + w : choose a window from a list
+<kbd>prefix + w </kbd>: choose a window from a list
 
-prefix + f : search for a pane
+<kbd>prefix + f </kbd>: search for a pane
 # References
 1. Check `man tmux` for more details. 
-2. Use 'prefix + ?' to list key bindings.
+2. Use <kbd>prefix + ?</kbd> to list key bindings.
 3. [My tmux config file](https://github.com/ChaosNyaruko/dotfiles/blob/main/tmux.conf)
 4. Many awesome tmux configurations on GitHub, check it out!
