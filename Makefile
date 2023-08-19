@@ -5,4 +5,4 @@ template:
 	rm _posts/tmp1.md.bak
 
 serve:
-	bundle exec jekyll serve --livereload
+	bundle exec jekyll serve --livereload --port 4000 --host 0.0.0.0
