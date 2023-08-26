@@ -1,8 +1,15 @@
+TITLE := your-title
+DATE := $(shell date '+%Y-%m-%d')
+NAME := $(DATE)-$(TITLE)
 template:
-	cp ./simple_template.md ./_posts/tmp1.md
-	# sed -i '' 's#code.byted.org/videoarch/pcdn_live/thrift_gen/toutiao/videoarch/pcdn_live#code.byted.org/overpass/toutiao_videoarch_pcdn_live/kitex_gen/toutiao/videoarch/pcdn_live#g' phone_p2p/*
-	sed -i .bak "s/YYYY-MM-DD/$(shell date '+%Y-%m-%d')/g" _posts/tmp1.md
-	rm _posts/tmp1.md.bak
+	cp ./simple_template.md ./_posts/$(NAME).md
+	# sed -i '' 's#github.com/ChaosNyaruko/xxxx#github.com/ChaosNyaruko/yyy#g' clash/*
+	sed -i .bak "s/YYYY-MM-DD/$(DATE)/g" _posts/$(NAME).md
+	# mv _posts/tmp1.md _posts/$(shell date '+%Y-%m-%d')-$(TITLE).md
+	rm _posts/$(NAME).md.bak
+
+rename:
+	mv _posts/$(DATE)-your-title.md _posts/$(DATE)-$(TITLE).md
 
 serve:
 	bundle exec jekyll serve --livereload --port 4000 --host 0.0.0.0
