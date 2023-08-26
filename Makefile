@@ -9,7 +9,7 @@ template:
 	rm _posts/$(NAME).md.bak
 
 rename:
-	mv _posts/$(shell date '+%Y-%m-%d')-your-title.md _posts/$(shell date '+%Y-%m-%d')-$(TITLE).md
+	mv _posts/$(DATE)-your-title.md _posts/$(DATE)-$(TITLE).md
 
 serve:
 	bundle exec jekyll serve --livereload --port 4000 --host 0.0.0.0

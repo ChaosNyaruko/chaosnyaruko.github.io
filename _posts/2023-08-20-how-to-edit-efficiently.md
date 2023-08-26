@@ -1,13 +1,14 @@
 ---
 layout: post
-title: quickfix introduction 
+title: How to edit efficiently
 subtitle: 
 date: 2023-08-20
 author: ChaosNyaruko
 header-img: 
 catalog: true
 tags:
-    - TODO-TAG
+    - draft
+    - notes
 ---
 
 inspired by https://www.youtube.com/watch?v=5fBkVjNryVQ
