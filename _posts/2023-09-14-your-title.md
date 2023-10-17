@@ -8,6 +8,8 @@ header-img:
 catalog: true
 tags:
     - philosophy
+    - TODO
+    - worse-is-better
 ---
 I got something from ["Worse is Better"](https://dreamsongs.com/RiseOfWorseIsBetter.html)
 
