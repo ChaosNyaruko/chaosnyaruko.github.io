@@ -10,8 +10,23 @@ tags:
     - acme
     - https
     - ssl
+    - nginx
 ---
-ATTENTION: The following content is just a copy of [acme.sh README](https://github.com/acmesh-official/acme.sh/blob/master/README.md)
+
+# If you find problems ...
+Points for me to setup my server:
+1. Configure as root user is better, although non-root users still can find a way to do it (as the following).
+2. Set your web root folder to somewhere you have `write access` to. For example, `$HOME/www/html`.
+3. For Nginx to access to your new web root, you might want to change the `user` in the `nginx.conf`, otherwise you could encounter a failure when issuing a cert. 
+
+By the way, in my opinion, using acme.sh is better than [CertBot](https://certbot.eff.org/) on a virtualised machine, such as a VPS, because the latter doesn't support the `OpenVz` architecture(but the setup is simpler, more or less), which is usually the cheapest type that you can buy.
+
+
+For more details, refer to [acme.sh README](https://github.com/acmesh-official/acme.sh/blob/master/README.md)
+
+---
+
+ATTENTION: For your convenience, the following content is just a copy of [acme.sh README](https://github.com/acmesh-official/acme.sh/blob/master/README.md)
 
 # An ACME Shell script: acme.sh 
 
