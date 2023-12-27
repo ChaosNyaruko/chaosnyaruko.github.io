@@ -45,7 +45,7 @@ I start to really participate in an open source program, and read open source co
 
 I start to think lots of things in different ways.
 - Why not "tabs"(the ones you see in VSCode/Sublime).
-- Why not "file explorers"
+- Why not "file explorers".
 - Why fuzzy searching.
 - ...
 
