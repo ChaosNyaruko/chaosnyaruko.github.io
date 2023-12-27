@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-subtitle: 
+title: Enough over Perfect
+subtitle: My attitudes towards playing with tools
 date: 2023-12-24
 author: ChaosNyaruko
 header-img: 
