@@ -7,7 +7,6 @@ author: ChaosNyaruko
 header-img: 
 catalog: true
 tags:
-    - TODO/Draft
     - tools
     - mindset
 ---
