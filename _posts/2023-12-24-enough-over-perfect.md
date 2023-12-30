@@ -13,6 +13,7 @@ tags:
 # Introduction
 Many people would say that configuring Vim/Emacs(or some other obsession with tools) is time-consuming and even be "a waste of time" [^1]. The core point is that tools are paths to the goal, not the goal itself. Quoted[^2]:
 > Obsession with tools is an insidious form of procrastination. This form of resistance masquerades itself as the opposite, as a form of improvement and development. 
+
 It really reveal one of the reasons why some people are obsessed with tools. I quite agree with it (thus I am not an Emacs guy :) ). 
 
 But whether should we look for better tools? In my opinion, Yes, and No.
