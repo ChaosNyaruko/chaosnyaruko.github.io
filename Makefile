@@ -1,4 +1,5 @@
-TITLE := your-title
+# TITLE := your-title
+TITLE := $(shell read -p "Enter: " enter ; echo $${enter})
 DATE := $(shell date '+%Y-%m-%d')
 NAME := $(DATE)-$(TITLE)
 template:
