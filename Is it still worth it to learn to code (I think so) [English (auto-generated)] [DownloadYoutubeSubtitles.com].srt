@@ -1,0 +1,1588 @@
+1
+00:00:01,199 --> 00:00:05,560
+I've been getting asked a lot lately
+
+2
+00:00:03,199 --> 00:00:08,639
+about my thoughts about the future of
+
+3
+00:00:05,560 --> 00:00:10,559
+software development whenever a new AI
+
+4
+00:00:08,639 --> 00:00:12,840
+Advance is released I get a flood of
+
+5
+00:00:10,559 --> 00:00:14,679
+questions asking what is the future for
+
+6
+00:00:12,840 --> 00:00:17,480
+software developers and I think the
+
+7
+00:00:14,679 --> 00:00:21,199
+question they are not asking is will I
+
+8
+00:00:17,480 --> 00:00:23,160
+still be allowed to code in the future
+
+9
+00:00:21,199 --> 00:00:26,080
+obviously everything besides c will
+
+10
+00:00:23,160 --> 00:00:28,840
+still be legal I I feel like the real
+
+11
+00:00:26,080 --> 00:00:31,039
+question that they're asking is will I
+
+12
+00:00:28,840 --> 00:00:33,000
+still be able to get paid with the
+
+13
+00:00:31,039 --> 00:00:35,480
+skills that I'm learning while I learn
+
+14
+00:00:33,000 --> 00:00:38,040
+to code and so the first thing I want to
+
+15
+00:00:35,480 --> 00:00:40,239
+say is I hate predicting things
+
+16
+00:00:38,040 --> 00:00:42,640
+particularly in public if you would have
+
+17
+00:00:40,239 --> 00:00:45,280
+asked me 5 years ago about if any of
+
+18
+00:00:42,640 --> 00:00:46,960
+this AI Tech if we would have it today
+
+19
+00:00:45,280 --> 00:00:49,000
+I'm pretty sure I would have said no and
+
+20
+00:00:46,960 --> 00:00:52,359
+I'm not talking about the crazy hyped up
+
+21
+00:00:49,000 --> 00:00:54,800
+demos I'm talking conversational AI that
+
+22
+00:00:52,359 --> 00:00:57,920
+returns some semblance of a conversation
+
+23
+00:00:54,800 --> 00:00:59,440
+even if it's mostly hallucinated I I I
+
+24
+00:00:57,920 --> 00:01:01,840
+don't think I wasn't thinking that was
+
+25
+00:00:59,440 --> 00:01:04,239
+going to be possible so I've had to
+
+26
+00:01:01,840 --> 00:01:06,119
+update my priors many times throughout
+
+27
+00:01:04,239 --> 00:01:08,360
+the last few years regarding Ai and its
+
+28
+00:01:06,119 --> 00:01:10,799
+capabilities and therefore it's future
+
+29
+00:01:08,360 --> 00:01:12,960
+capabilities as well so I just don't
+
+30
+00:01:10,799 --> 00:01:15,640
+have enough hubris to think that I know
+
+31
+00:01:12,960 --> 00:01:17,520
+what's going to happen in the future I
+
+32
+00:01:15,640 --> 00:01:20,240
+guess I do have just enough huis though
+
+33
+00:01:17,520 --> 00:01:21,880
+to post this video about my thoughts so
+
+34
+00:01:20,240 --> 00:01:23,720
+there's two major points though that I
+
+35
+00:01:21,880 --> 00:01:26,560
+want to talk about the first is that I
+
+36
+00:01:23,720 --> 00:01:28,640
+think software is more than coding and
+
+37
+00:01:26,560 --> 00:01:30,640
+then the second is that programming
+
+38
+00:01:28,640 --> 00:01:33,240
+itself is more than coding
+
+39
+00:01:30,640 --> 00:01:35,040
+and before I sort of go deep on those I
+
+40
+00:01:33,240 --> 00:01:37,720
+want to just seed for the sake of
+
+41
+00:01:35,040 --> 00:01:39,759
+argument that AI will be able to do
+
+42
+00:01:37,720 --> 00:01:41,840
+coding tasks that a junior engineer is
+
+43
+00:01:39,759 --> 00:01:44,479
+currently exposed to do AI will be able
+
+44
+00:01:41,840 --> 00:01:46,479
+to perform these as faster faster and
+
+45
+00:01:44,479 --> 00:01:48,880
+more cheaply than those Junior engineers
+
+46
+00:01:46,479 --> 00:01:51,360
+and AI will be able to do this and
+
+47
+00:01:48,880 --> 00:01:54,200
+productionize right sort of rolled out
+
+48
+00:01:51,360 --> 00:01:56,560
+to people um sometime in say the next 5
+
+49
+00:01:54,200 --> 00:01:57,880
+years I realize some people in my chat
+
+50
+00:01:56,560 --> 00:02:00,240
+keep telling me that this is going to be
+
+51
+00:01:57,880 --> 00:02:02,079
+in 6 months but that roll out SC seems
+
+52
+00:02:00,240 --> 00:02:04,240
+quite difficult to change the entire
+
+53
+00:02:02,079 --> 00:02:05,880
+structure of an industry in that time
+
+54
+00:02:04,240 --> 00:02:08,239
+but that's a conversation for a separate
+
+55
+00:02:05,880 --> 00:02:10,000
+video the reason I say that is because I
+
+56
+00:02:08,239 --> 00:02:13,160
+don't want to fight about what I think
+
+57
+00:02:10,000 --> 00:02:15,280
+the particular capabilities of AI are
+
+58
+00:02:13,160 --> 00:02:18,239
+going to be instead I want to talk about
+
+59
+00:02:15,280 --> 00:02:19,720
+that with sort of that scenario in mind
+
+60
+00:02:18,239 --> 00:02:21,840
+and if you think any of those points are
+
+61
+00:02:19,720 --> 00:02:23,519
+much too aggressive in favor of AI then
+
+62
+00:02:21,840 --> 00:02:28,000
+that's totally fine my argument will
+
+63
+00:02:23,519 --> 00:02:30,040
+just be bolstered in my in my corner the
+
+64
+00:02:28,000 --> 00:02:31,640
+other clarification I want to make is
+
+65
+00:02:30,040 --> 00:02:34,160
+for the rest of the video when I say
+
+66
+00:02:31,640 --> 00:02:36,160
+coding I'm sort of referring to this act
+
+67
+00:02:34,160 --> 00:02:38,200
+of sitting in front of a computer typing
+
+68
+00:02:36,160 --> 00:02:40,440
+autocom completing copying pasting a
+
+69
+00:02:38,200 --> 00:02:42,879
+programming language into an editor and
+
+70
+00:02:40,440 --> 00:02:46,159
+then shipping that to prod in some sense
+
+71
+00:02:42,879 --> 00:02:49,360
+the exclusively physical act of creating
+
+72
+00:02:46,159 --> 00:02:52,080
+software so when I say software is more
+
+73
+00:02:49,360 --> 00:02:54,840
+than coding what do I mean I'm saying
+
+74
+00:02:52,080 --> 00:02:56,720
+people don't pay for code they
+
+75
+00:02:54,840 --> 00:02:58,640
+definitely don't pay to just watch you
+
+76
+00:02:56,720 --> 00:03:00,560
+code unless you're a twitch streamer I
+
+77
+00:02:58,640 --> 00:03:03,040
+guess then people like doing that that
+
+78
+00:03:00,560 --> 00:03:05,480
+but what they pay for is for problems to
+
+79
+00:03:03,040 --> 00:03:07,840
+be solved and when you're coding you're
+
+80
+00:03:05,480 --> 00:03:09,760
+not getting paid for that code you're
+
+81
+00:03:07,840 --> 00:03:12,480
+getting paid to solve somebody else's
+
+82
+00:03:09,760 --> 00:03:14,599
+problems real or perceived these
+
+83
+00:03:12,480 --> 00:03:16,239
+problems might be for a client or they
+
+84
+00:03:14,599 --> 00:03:18,599
+could be for your boss or they could be
+
+85
+00:03:16,239 --> 00:03:20,920
+even for other software developers right
+
+86
+00:03:18,599 --> 00:03:22,519
+but the reason you're getting paid is
+
+87
+00:03:20,920 --> 00:03:24,760
+because the problem you're solving for
+
+88
+00:03:22,519 --> 00:03:27,680
+someone is valuable enough for them to
+
+89
+00:03:24,760 --> 00:03:29,360
+part with their beloved cash this boils
+
+90
+00:03:27,680 --> 00:03:31,000
+down to software being able to maybe
+
+91
+00:03:29,360 --> 00:03:33,239
+provide something that's faster or
+
+92
+00:03:31,000 --> 00:03:35,120
+cheaper or more reliable than what could
+
+93
+00:03:33,239 --> 00:03:38,200
+have been accomplished
+
+94
+00:03:35,120 --> 00:03:40,200
+previously and software is a super set
+
+95
+00:03:38,200 --> 00:03:42,159
+of just those coding tasks of just
+
+96
+00:03:40,200 --> 00:03:44,400
+literally typing into the computer
+
+97
+00:03:42,159 --> 00:03:46,680
+because you need more than just good
+
+98
+00:03:44,400 --> 00:03:48,799
+algorithms or a nice type system to
+
+99
+00:03:46,680 --> 00:03:50,040
+create value for your customers not to
+
+100
+00:03:48,799 --> 00:03:52,319
+say those aren't important just I'm
+
+101
+00:03:50,040 --> 00:03:54,640
+saying there is more to software than
+
+102
+00:03:52,319 --> 00:03:56,720
+that you need to be able to understand
+
+103
+00:03:54,640 --> 00:04:00,159
+requirements and update them when things
+
+104
+00:03:56,720 --> 00:04:03,159
+change this may even involve a hesitate
+
+105
+00:04:00,159 --> 00:04:05,200
+to say it talking to a client or to a
+
+106
+00:04:03,159 --> 00:04:07,319
+stakeholder you need to be able to
+
+107
+00:04:05,200 --> 00:04:09,519
+practice communication understanding the
+
+108
+00:04:07,319 --> 00:04:12,280
+non- technical aspects communicated to
+
+109
+00:04:09,519 --> 00:04:14,360
+you sometimes called listening in the
+
+110
+00:04:12,280 --> 00:04:16,400
+area of someone else's expertise and you
+
+111
+00:04:14,360 --> 00:04:18,280
+also need to be able to communicate
+
+112
+00:04:16,400 --> 00:04:21,320
+technical Concepts to non-technical
+
+113
+00:04:18,280 --> 00:04:23,360
+people in your area of expertise you
+
+114
+00:04:21,320 --> 00:04:26,000
+need to be able to say no to feature
+
+115
+00:04:23,360 --> 00:04:29,160
+creep and scope management your project
+
+116
+00:04:26,000 --> 00:04:31,160
+can't do everything right you need to be
+
+117
+00:04:29,160 --> 00:04:33,800
+able to say noce something you'd like to
+
+118
+00:04:31,160 --> 00:04:35,520
+do but think the cost is more than what
+
+119
+00:04:33,800 --> 00:04:38,680
+it's worth like maybe rewriting your
+
+120
+00:04:35,520 --> 00:04:41,080
+front end in Rust there's social aspects
+
+121
+00:04:38,680 --> 00:04:42,880
+to software and to making software like
+
+122
+00:04:41,080 --> 00:04:45,039
+listening to feedback and giving
+
+123
+00:04:42,880 --> 00:04:46,840
+constructive feedback there is mentoring
+
+124
+00:04:45,039 --> 00:04:48,800
+and being mentored there's patience
+
+125
+00:04:46,840 --> 00:04:51,400
+kindness and respect all of these things
+
+126
+00:04:48,800 --> 00:04:53,520
+create teams that are generally seeming
+
+127
+00:04:51,400 --> 00:04:56,080
+to be more effective at creating
+
+128
+00:04:53,520 --> 00:04:59,000
+software and there's also asking and
+
+129
+00:04:56,080 --> 00:05:02,080
+understanding things like how do we make
+
+130
+00:04:59,000 --> 00:05:03,800
+money at this company the best software
+
+131
+00:05:02,080 --> 00:05:06,880
+developers I've ever worked at were
+
+132
+00:05:03,800 --> 00:05:08,880
+great at all of these including coding
+
+133
+00:05:06,880 --> 00:05:11,000
+they definitely were great at writing
+
+134
+00:05:08,880 --> 00:05:12,800
+code but they understood each of these
+
+135
+00:05:11,000 --> 00:05:15,880
+and helped me to learn to do each of
+
+136
+00:05:12,800 --> 00:05:18,039
+them better all of these skills will
+
+137
+00:05:15,880 --> 00:05:19,960
+still be useful for as long as we have
+
+138
+00:05:18,039 --> 00:05:22,199
+jobs there are skills that you can
+
+139
+00:05:19,960 --> 00:05:24,280
+practice and hone while working as a
+
+140
+00:05:22,199 --> 00:05:26,280
+software developer or learning to be a
+
+141
+00:05:24,280 --> 00:05:28,639
+software developer regardless of your
+
+142
+00:05:26,280 --> 00:05:32,360
+seniority and tex
+
+143
+00:05:28,639 --> 00:05:35,680
+stack but even beyond that I want to say
+
+144
+00:05:32,360 --> 00:05:38,479
+programming itself is more than just
+
+145
+00:05:35,680 --> 00:05:40,039
+coding and maybe this section should be
+
+146
+00:05:38,479 --> 00:05:44,400
+titled something more along the lines of
+
+147
+00:05:40,039 --> 00:05:46,600
+programming can be a suet of coding and
+
+148
+00:05:44,400 --> 00:05:48,960
+if I'm being very reductionist and I I
+
+149
+00:05:46,600 --> 00:05:51,199
+want to be clear very reductionist I see
+
+150
+00:05:48,960 --> 00:05:53,199
+sort of two categories of programmers
+
+151
+00:05:51,199 --> 00:05:56,160
+there's solution copiers and there's
+
+152
+00:05:53,199 --> 00:05:58,720
+problem solvers solution copier is not
+
+153
+00:05:56,160 --> 00:06:01,319
+exclusively about using copypaste
+
+154
+00:05:58,720 --> 00:06:05,000
+Solutions it's about using copypaste
+
+155
+00:06:01,319 --> 00:06:07,240
+solutions for copypaste problems without
+
+156
+00:06:05,000 --> 00:06:09,199
+examination as a clarification there are
+
+157
+00:06:07,240 --> 00:06:11,880
+a lot of people who primarily sort of
+
+158
+00:06:09,199 --> 00:06:14,319
+copy and paste code and solve a
+
+159
+00:06:11,880 --> 00:06:17,639
+ridiculous amount of problems they could
+
+160
+00:06:14,319 --> 00:06:19,319
+be like a scrappy solo startup right and
+
+161
+00:06:17,639 --> 00:06:21,599
+they are copy pasting because they don't
+
+162
+00:06:19,319 --> 00:06:23,120
+have an engineer uh you know a legion of
+
+163
+00:06:21,599 --> 00:06:24,360
+Engineers to write a bunch of code they
+
+164
+00:06:23,120 --> 00:06:26,599
+need to take the solutions that are
+
+165
+00:06:24,360 --> 00:06:28,560
+available and ship quickly and iterate
+
+166
+00:06:26,599 --> 00:06:30,680
+or maybe they're a non-programmer using
+
+167
+00:06:28,560 --> 00:06:33,199
+Excel and copy basted Python scripts to
+
+168
+00:06:30,680 --> 00:06:34,840
+power some ridiculous real estate Empire
+
+169
+00:06:33,199 --> 00:06:36,120
+I don't know the point is I'm not
+
+170
+00:06:34,840 --> 00:06:38,440
+actually talking about that group of
+
+171
+00:06:36,120 --> 00:06:40,360
+people here those people are still
+
+172
+00:06:38,440 --> 00:06:42,039
+problem solvers they're just focusing on
+
+173
+00:06:40,360 --> 00:06:45,039
+a different set of problems and a
+
+174
+00:06:42,039 --> 00:06:47,520
+different set of solutions the solution
+
+175
+00:06:45,039 --> 00:06:50,039
+copers they're not interested in how
+
+176
+00:06:47,520 --> 00:06:52,639
+things work just getting passed to the
+
+177
+00:06:50,039 --> 00:06:54,160
+next task they're sort of unaware of the
+
+178
+00:06:52,639 --> 00:06:55,960
+ways that different libraries and
+
+179
+00:06:54,160 --> 00:06:58,120
+language and tools can solve their
+
+180
+00:06:55,960 --> 00:07:00,120
+problems or might not solve their
+
+181
+00:06:58,120 --> 00:07:02,000
+problems they just copy paste the first
+
+182
+00:07:00,120 --> 00:07:05,120
+solution from a stack Overflow problem
+
+183
+00:07:02,000 --> 00:07:07,319
+or now maybe their favorite llm until CI
+
+184
+00:07:05,120 --> 00:07:09,599
+is green there's no concept of
+
+185
+00:07:07,319 --> 00:07:11,720
+considering the context that they're
+
+186
+00:07:09,599 --> 00:07:13,759
+that they're currently in but this isn't
+
+187
+00:07:11,720 --> 00:07:15,960
+just limited to technical problems like
+
+188
+00:07:13,759 --> 00:07:17,199
+we've been talking about it might be
+
+189
+00:07:15,960 --> 00:07:19,639
+that they're not interested at all how
+
+190
+00:07:17,199 --> 00:07:21,440
+their business works or how their makes
+
+191
+00:07:19,639 --> 00:07:23,360
+money or what their customers want right
+
+192
+00:07:21,440 --> 00:07:25,240
+and maybe that they've never considered
+
+193
+00:07:23,360 --> 00:07:27,800
+does the structure of our own
+
+194
+00:07:25,240 --> 00:07:30,720
+organization help us meet the goals and
+
+195
+00:07:27,800 --> 00:07:33,440
+desires that we're setting out to do
+
+196
+00:07:30,720 --> 00:07:35,039
+in contrast we have the problem solvers
+
+197
+00:07:33,440 --> 00:07:37,400
+these are curious people who try to
+
+198
+00:07:35,039 --> 00:07:39,400
+solve problems via understanding and I
+
+199
+00:07:37,400 --> 00:07:41,240
+think these skills will remain useful
+
+200
+00:07:39,400 --> 00:07:42,160
+even if we never write a single line of
+
+201
+00:07:41,240 --> 00:07:44,560
+code
+
+202
+00:07:42,160 --> 00:07:46,440
+again and this is sort of where I think
+
+203
+00:07:44,560 --> 00:07:49,240
+people are underestimating the skills
+
+204
+00:07:46,440 --> 00:07:51,319
+that they can once again can learn via
+
+205
+00:07:49,240 --> 00:07:53,720
+software development right and my point
+
+206
+00:07:51,319 --> 00:07:55,639
+here is that it it's possible to not
+
+207
+00:07:53,720 --> 00:07:57,199
+learn these and to not practice these
+
+208
+00:07:55,639 --> 00:07:59,479
+even if you've been writing code for a
+
+209
+00:07:57,199 --> 00:08:01,520
+long time so for example I think logic
+
+210
+00:07:59,479 --> 00:08:03,360
+iCal thinking is something that we can
+
+211
+00:08:01,520 --> 00:08:05,599
+practice while we're doing software
+
+212
+00:08:03,360 --> 00:08:08,400
+development we can practice decomposing
+
+213
+00:08:05,599 --> 00:08:10,759
+large problems into smaller ones we can
+
+214
+00:08:08,400 --> 00:08:12,440
+work on recognizing iterating and
+
+215
+00:08:10,759 --> 00:08:15,039
+solving issues for customers that
+
+216
+00:08:12,440 --> 00:08:17,479
+they're actually willing to pay for you
+
+217
+00:08:15,039 --> 00:08:19,199
+can get better at domain analysis right
+
+218
+00:08:17,479 --> 00:08:21,680
+understanding a problem set possible
+
+219
+00:08:19,199 --> 00:08:24,440
+solutions and then how to implement some
+
+220
+00:08:21,680 --> 00:08:26,240
+business logic or process to solve that
+
+221
+00:08:24,440 --> 00:08:28,720
+you can work on predicting edge cases or
+
+222
+00:08:26,240 --> 00:08:31,080
+failure modes for those processes you
+
+223
+00:08:28,720 --> 00:08:33,719
+learn how to trade-off management and
+
+224
+00:08:31,080 --> 00:08:35,640
+understand that there exists tradeoffs
+
+225
+00:08:33,719 --> 00:08:37,399
+that you need to manage then there's
+
+226
+00:08:35,640 --> 00:08:39,440
+pattern recognition which is useful all
+
+227
+00:08:37,399 --> 00:08:41,560
+around us and so each of these skills
+
+228
+00:08:39,440 --> 00:08:43,919
+seem to me at least like muscles that
+
+229
+00:08:41,560 --> 00:08:46,920
+you can train and get better at you can
+
+230
+00:08:43,919 --> 00:08:49,240
+use software development as a vehicle
+
+231
+00:08:46,920 --> 00:08:50,959
+for doing that training and all of these
+
+232
+00:08:49,240 --> 00:08:54,040
+skills are going to be useful once again
+
+233
+00:08:50,959 --> 00:08:55,440
+for as long as we have jobs to do same
+
+234
+00:08:54,040 --> 00:08:56,519
+with the soft skills that I mentioned in
+
+235
+00:08:55,440 --> 00:08:59,040
+the software
+
+236
+00:08:56,519 --> 00:09:01,160
+section let me give you an example sort
+
+237
+00:08:59,040 --> 00:09:03,040
+of ill illustrate this A Tale of Two
+
+238
+00:09:01,160 --> 00:09:04,880
+neovim if you will and I know some
+
+239
+00:09:03,040 --> 00:09:07,079
+people are already going to say using
+
+240
+00:09:04,880 --> 00:09:08,480
+neovim that's just a waste of time
+
+241
+00:09:07,079 --> 00:09:09,720
+that's okay that's fine if you don't
+
+242
+00:09:08,480 --> 00:09:11,360
+like neovim that's fine but I want to
+
+243
+00:09:09,720 --> 00:09:13,320
+give a parable sort of of two different
+
+244
+00:09:11,360 --> 00:09:15,680
+people using neovim uh it's not an
+
+245
+00:09:13,320 --> 00:09:17,640
+exhaustive list just just two examples
+
+246
+00:09:15,680 --> 00:09:19,440
+so the first person tries out neovim
+
+247
+00:09:17,640 --> 00:09:21,240
+because of some extrinsic reason and
+
+248
+00:09:19,440 --> 00:09:23,120
+they're hurried to get to Step One of
+
+249
+00:09:21,240 --> 00:09:25,880
+using neovim they don't take time to
+
+250
+00:09:23,120 --> 00:09:27,480
+read or understand or explore something
+
+251
+00:09:25,880 --> 00:09:29,560
+breaks in their config and they just
+
+252
+00:09:27,480 --> 00:09:31,800
+post on Reddit until someone posts or
+
+253
+00:09:29,560 --> 00:09:33,720
+with solution they might make an issue
+
+254
+00:09:31,800 --> 00:09:35,040
+with no reproduction steps and we've
+
+255
+00:09:33,720 --> 00:09:37,560
+seen this kind of person in every Dev
+
+256
+00:09:35,040 --> 00:09:39,560
+community and you can probably relate in
+
+257
+00:09:37,560 --> 00:09:41,880
+my opinion this person actually is
+
+258
+00:09:39,560 --> 00:09:43,640
+wasting their time with neovim which by
+
+259
+00:09:41,880 --> 00:09:45,600
+the way is totally okay we all like to
+
+260
+00:09:43,640 --> 00:09:47,200
+waste our time in different ways I like
+
+261
+00:09:45,600 --> 00:09:48,720
+playing stard to Valley with my wife and
+
+262
+00:09:47,200 --> 00:09:51,680
+we waste time together and it's really
+
+263
+00:09:48,720 --> 00:09:54,720
+nice Pac-Man users wouldn't understand
+
+264
+00:09:51,680 --> 00:09:56,959
+however there isn't any learning going
+
+265
+00:09:54,720 --> 00:10:00,399
+on through this neovim experience which
+
+266
+00:09:56,959 --> 00:10:02,440
+is bad if it characterizes every
+
+267
+00:10:00,399 --> 00:10:04,600
+interaction that you have with skills
+
+268
+00:10:02,440 --> 00:10:06,800
+that sort of are the culmination of your
+
+269
+00:10:04,600 --> 00:10:09,440
+field compare this to someone who's
+
+270
+00:10:06,800 --> 00:10:11,040
+enjoying using neovim they learn to
+
+271
+00:10:09,440 --> 00:10:12,240
+understand how to read documentation
+
+272
+00:10:11,040 --> 00:10:14,959
+they might learn a new programming
+
+273
+00:10:12,240 --> 00:10:16,240
+language they learn new idioms and apis
+
+274
+00:10:14,959 --> 00:10:18,160
+that can teach them about software
+
+275
+00:10:16,240 --> 00:10:20,240
+design when something breaks in their
+
+276
+00:10:18,160 --> 00:10:22,399
+configuration they learn how to read an
+
+277
+00:10:20,240 --> 00:10:24,680
+error message I know controversial in
+
+278
+00:10:22,399 --> 00:10:26,320
+2024 they learn to debug software
+
+279
+00:10:24,680 --> 00:10:28,320
+systems they learn about rolling back
+
+280
+00:10:26,320 --> 00:10:29,920
+about lock files they may even create a
+
+281
+00:10:28,320 --> 00:10:31,680
+PR to fix a problem
+
+282
+00:10:29,920 --> 00:10:33,680
+they build solutions for themselves and
+
+283
+00:10:31,680 --> 00:10:35,000
+are able to rapidly iterate on them
+
+284
+00:10:33,680 --> 00:10:37,279
+towards something that solves a real
+
+285
+00:10:35,000 --> 00:10:39,680
+world problem for them they're their own
+
+286
+00:10:37,279 --> 00:10:41,519
+customer this person has learned a lot
+
+287
+00:10:39,680 --> 00:10:44,399
+even if they end up with exactly the
+
+288
+00:10:41,519 --> 00:10:48,440
+same code AS person one both people
+
+289
+00:10:44,399 --> 00:10:50,399
+spend a lot of time on neovim uh and the
+
+290
+00:10:48,440 --> 00:10:53,680
+but the first one though was a solution
+
+291
+00:10:50,399 --> 00:10:55,959
+copier and the second a problem solver
+
+292
+00:10:53,680 --> 00:10:58,160
+the skills attitudes and perspectives
+
+293
+00:10:55,959 --> 00:11:00,680
+characterizing the problem solver are
+
+294
+00:10:58,160 --> 00:11:02,680
+helpful in many of other domains even if
+
+295
+00:11:00,680 --> 00:11:04,360
+AI takes overwriting software for them
+
+296
+00:11:02,680 --> 00:11:06,720
+forever and they never get to use a
+
+297
+00:11:04,360 --> 00:11:09,240
+modal text editor again which obviously
+
+298
+00:11:06,720 --> 00:11:11,079
+would be very said in the examples I
+
+299
+00:11:09,240 --> 00:11:13,519
+gave you can replace neovim with
+
+300
+00:11:11,079 --> 00:11:15,560
+whatever technology you want react spelt
+
+301
+00:11:13,519 --> 00:11:17,600
+rust hmx Excel whatever it doesn't
+
+302
+00:11:15,560 --> 00:11:20,000
+matter the pattern and the idea is the
+
+303
+00:11:17,600 --> 00:11:22,399
+same and my ultimate Point here is that
+
+304
+00:11:20,000 --> 00:11:24,680
+you get to choose how you're going to
+
+305
+00:11:22,399 --> 00:11:27,240
+tackle problems and the takeaways you'll
+
+306
+00:11:24,680 --> 00:11:30,480
+have from actually solving that problem
+
+307
+00:11:27,240 --> 00:11:32,440
+to move from copy pter to Giga Chad
+
+308
+00:11:30,480 --> 00:11:35,920
+Problem Solver as someone in my chat put
+
+309
+00:11:32,440 --> 00:11:38,440
+it largely revolves around you deciding
+
+310
+00:11:35,920 --> 00:11:41,160
+to start thinking and asking questions
+
+311
+00:11:38,440 --> 00:11:43,800
+today and that's pretty much it then you
+
+312
+00:11:41,160 --> 00:11:45,920
+make that same Choice tomorrow and the
+
+313
+00:11:43,800 --> 00:11:49,399
+day after that and the day after that
+
+314
+00:11:45,920 --> 00:11:51,240
+and then you just keep doing that in a
+
+315
+00:11:49,399 --> 00:11:53,120
+practical example in Practical terms of
+
+316
+00:11:51,240 --> 00:11:55,800
+something you could try to do this with
+
+317
+00:11:53,120 --> 00:11:58,200
+just build something for yourself that
+
+318
+00:11:55,800 --> 00:11:59,560
+solves a real problem that you have it's
+
+319
+00:11:58,200 --> 00:12:02,040
+okay if someone else has already built
+
+320
+00:11:59,560 --> 00:12:05,160
+it the point is that you're going to
+
+321
+00:12:02,040 --> 00:12:07,279
+build it for yourself to see if you can
+
+322
+00:12:05,160 --> 00:12:09,000
+solve this problem something difficult
+
+323
+00:12:07,279 --> 00:12:10,639
+when making products for other people
+
+324
+00:12:09,000 --> 00:12:12,240
+particularly in you know large
+
+325
+00:12:10,639 --> 00:12:14,600
+businesses or with a bunch of other
+
+326
+00:12:12,240 --> 00:12:17,040
+people working on the project it's very
+
+327
+00:12:14,600 --> 00:12:19,480
+hard to distinguish good feedback from
+
+328
+00:12:17,040 --> 00:12:21,240
+loud feedback it's common to have some
+
+329
+00:12:19,480 --> 00:12:23,440
+loud feedback that seems to overwhelm
+
+330
+00:12:21,240 --> 00:12:25,600
+and outweigh all of the other feedback
+
+331
+00:12:23,440 --> 00:12:27,480
+that you are getting so the nice thing
+
+332
+00:12:25,600 --> 00:12:29,639
+about building something for yourself by
+
+333
+00:12:27,480 --> 00:12:31,959
+yourself is you get to be that loud and
+
+334
+00:12:29,639 --> 00:12:34,240
+obnoxious user and then eventually
+
+335
+00:12:31,959 --> 00:12:36,760
+you'll get to decide if you've solved
+
+336
+00:12:34,240 --> 00:12:38,920
+your problem or not and if you didn't
+
+337
+00:12:36,760 --> 00:12:41,800
+that's okay you iterate as I tell my
+
+338
+00:12:38,920 --> 00:12:43,800
+three-year-old son it's okay to fail
+
+339
+00:12:41,800 --> 00:12:45,639
+that's part of how we learn the
+
+340
+00:12:43,800 --> 00:12:48,040
+important part is that we use our
+
+341
+00:12:45,639 --> 00:12:49,959
+roughness and our toughness to try again
+
+342
+00:12:48,040 --> 00:12:53,720
+and you can translate that to any age
+
+343
+00:12:49,959 --> 00:12:56,279
+appropriate way of saying that for
+
+344
+00:12:53,720 --> 00:12:57,959
+you in conclusion what I want to make
+
+345
+00:12:56,279 --> 00:13:00,000
+clear though is that I'm not saying
+
+346
+00:12:57,959 --> 00:13:02,440
+solution copiers are bad people or that
+
+347
+00:13:00,000 --> 00:13:04,920
+I don't like them instead I'm trying to
+
+348
+00:13:02,440 --> 00:13:06,560
+communicate that I would be a bit more
+
+349
+00:13:04,920 --> 00:13:09,279
+concerned if all the skills that I've
+
+350
+00:13:06,560 --> 00:13:12,519
+developed revolved around regurgitating
+
+351
+00:13:09,279 --> 00:13:15,320
+existing solutions that to me seems an
+
+352
+00:13:12,519 --> 00:13:18,040
+area that is more likely to be automated
+
+353
+00:13:15,320 --> 00:13:20,000
+by AI in some fashion and more quickly
+
+354
+00:13:18,040 --> 00:13:22,560
+than other areas of software
+
+355
+00:13:20,000 --> 00:13:24,800
+development I don't like giving advice
+
+356
+00:13:22,560 --> 00:13:26,600
+on the internet mostly because life is
+
+357
+00:13:24,800 --> 00:13:29,160
+much too complicated for someone to
+
+358
+00:13:26,600 --> 00:13:31,000
+explain their situation to me and then
+
+359
+00:13:29,160 --> 00:13:33,720
+it's much too complicated for me to
+
+360
+00:13:31,000 --> 00:13:36,320
+explain my advice to them through this
+
+361
+00:13:33,720 --> 00:13:38,839
+medium so I I generally don't give
+
+362
+00:13:36,320 --> 00:13:41,519
+advice but sort of despite this advice
+
+363
+00:13:38,839 --> 00:13:43,800
+for me like be curious pay attention
+
+364
+00:13:41,519 --> 00:13:46,040
+work hard don't be afraid to fail those
+
+365
+00:13:43,800 --> 00:13:48,320
+have never really led me astray thinking
+
+366
+00:13:46,040 --> 00:13:50,639
+this way once again in my opinion right
+
+367
+00:13:48,320 --> 00:13:52,880
+gives someone the best chance at success
+
+368
+00:13:50,639 --> 00:13:56,040
+regardless of how quickly and thoroughly
+
+369
+00:13:52,880 --> 00:13:58,240
+AI expands into other software Fields I
+
+370
+00:13:56,040 --> 00:14:00,519
+don't know what the future is going to
+
+371
+00:13:58,240 --> 00:14:03,000
+look like I'm just a regular mortal I
+
+372
+00:14:00,519 --> 00:14:04,560
+put my pants on two legs at a time but I
+
+373
+00:14:03,000 --> 00:14:06,680
+do think even discounting all the
+
+374
+00:14:04,560 --> 00:14:09,279
+arguments I've made throughout the video
+
+375
+00:14:06,680 --> 00:14:11,360
+right that if your current hypothesis is
+
+376
+00:14:09,279 --> 00:14:13,800
+that billions of new lines of code are
+
+377
+00:14:11,360 --> 00:14:15,160
+going to be generated it seems likely
+
+378
+00:14:13,800 --> 00:14:17,440
+that
+
+379
+00:14:15,160 --> 00:14:19,720
+truly understanding some things about
+
+380
+00:14:17,440 --> 00:14:21,680
+code now not everything not every
+
+381
+00:14:19,720 --> 00:14:24,240
+language not every framework not every
+
+382
+00:14:21,680 --> 00:14:26,959
+type system but just some things about
+
+383
+00:14:24,240 --> 00:14:29,800
+software itself that seems to me to be a
+
+384
+00:14:26,959 --> 00:14:31,800
+beneficial skill compared to any other
+
+385
+00:14:29,800 --> 00:14:34,480
+possible skills you might have or might
+
+386
+00:14:31,800 --> 00:14:36,320
+want to learn particularly if you like
+
+387
+00:14:34,480 --> 00:14:38,399
+learning about it and you want to get
+
+388
+00:14:36,320 --> 00:14:41,639
+really good at it I hope that this can
+
+389
+00:14:38,399 --> 00:14:45,440
+be encouraging to you to both learn and
+
+390
+00:14:41,639 --> 00:14:47,399
+work hard in your software Endeavors and
+
+391
+00:14:45,440 --> 00:14:49,160
+also some confidence that maybe even if
+
+392
+00:14:47,399 --> 00:14:51,399
+we never get to write code again that a
+
+393
+00:14:49,160 --> 00:14:53,639
+lot of what we're learning can be really
+
+394
+00:14:51,399 --> 00:14:54,759
+useful and transferred to other domains
+
+395
+00:14:53,639 --> 00:14:56,320
+let me know what you think let me know
+
+396
+00:14:54,759 --> 00:15:00,040
+if you like the video thanks everybody I
+
+397
+00:14:56,320 --> 00:15:00,040
+love you see you later
+
