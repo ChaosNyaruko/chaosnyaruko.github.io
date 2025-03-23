@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-subtitle: 
+title: 不要比较
+subtitle: Don't compare 
 date: 2025-03-23
 author: ChaosNyaruko
 header-img: 
