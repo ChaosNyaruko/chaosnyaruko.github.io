@@ -4,13 +4,14 @@ title: 笔记本折腾Linux碎碎念
 subtitle: 
 date: 2025-07-14
 author: ChaosNyaruko
-header-img: 
+header-img: img/Archlinux-logo-standard-version.svg
 catalog: true
 tags:
-    - TODO-TAG
     - linux
     - archlinux
     - fun
+    - laptop
+    - windows
 ---
 # 前言
 前几天给自己的老Magicbook装了Linux，有些想说的东西。
@@ -32,7 +33,7 @@ tags:
 
 - 我不是自由软件战士，我也没那么hacker，但我热爱并感谢开源
 
-- TODO
+- ...
 
 # 为什么要用Linux
 - 折腾Linux好玩，差生文具多，咋了
@@ -75,10 +76,10 @@ tags:
     以下对比可能并没有那么严格，但是挺能说明问题的了。内存占用完全是数量级上的差距，CPU我还给微软留了点面子，其实它经常会有一些Windows自带服务把CPU拉到100%（与此同时风扇和我的血压也上去了）
   
     之前用Windows的时候，一开机就70%的内存占用，稍微开点什么就80/90+，几乎干什么都卡 + 发热 + 风扇狂转。
-    ![Windows的高占用](../img/fxxk-microsoft-win11.png)
+    ![Windows的高占用](/img/fxxk-microsoft-win11.png)
 
     安装完ArchLinux + 一些必要的服务（比如sshd/bluez/xorg-server/clash/...等）+ 轻量级桌面/窗口管理器（比如i3）+ 终端 + tmux，占用内存才**400MB**！！加一个Firefox播放B站视频，也才**1G多一点**(见下图)。
-    ![i3 + firefox播放一个B站视频 + 一些后台服务](../img/arch-with-firefox-play-bili.png)
+    ![i3 + firefox播放一个B站视频 + 一些后台服务](/img/arch-with-firefox-play-bili.png)
 
     再次，Fxxk Microsoft。
 
