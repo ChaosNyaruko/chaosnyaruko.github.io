@@ -31,7 +31,7 @@ workspace 2 output <output 1>
 ## 高分(3840x2160)支持一般
 1. 通过设置~/.Xresource 里的`Xft.dpi: 192`来进行4K显示器下合适的缩放，但是:
     1. 所有显示器都会使用一样的dpi设置，也就是你的内建显示器如果原本是一个分辩率没那么高的屏幕，字会变得很大
-    2. 不只所有应用都遵循一样的缩放原则，比如你可能要单独设置`GDK_SCALE`或`QT_SCALE_FACTOR`等环境变量来指定缩放比例，或者像Firefox/Chromium这样的应用都提供了图形化或者启动时传递参数的办法，指定缩放倍数，如`--force-device-scale-factor=1.5`等等。根据你使用应用所使用的GUI框架，可能要按需设置
+    2. 不是所有应用都遵循一样的缩放原则，比如你可能要单独设置`GDK_SCALE`或`QT_SCALE_FACTOR`等环境变量来指定缩放比例，或者像Firefox/Chromium这样的应用都提供了图形化或者启动时传递参数的办法，指定缩放倍数，如`--force-device-scale-factor=1.5`等等。根据你使用应用所使用的GUI框架，可能要按需设置
     3. 不支持分数缩放(fractional-scaling)或支持得不好
 
 2. 通过`xrandr --output xx --scale 0.5`来进行缩放，全局会放大，但是应用内的渲染，像文字什么的，很可能经是有点糊的
