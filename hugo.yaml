@@ -4,6 +4,7 @@ title: "ChaosNyaruko' Digital Space"
 theme: 'PaperMod'
 pagination:
   pagerSize: 5
+enableRobotsTXT: true
 
 caches:
   images:
