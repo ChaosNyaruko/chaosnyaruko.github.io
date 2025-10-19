@@ -17,9 +17,9 @@ outputs:
     - JSON # necessary for search
 
 params:
-  # homeInfoParams:
-  #   Title: Hi there wave
-  #   Content: Can be Info, links, about...
+  homeInfoParams:
+    Title: Hi there 👋, this is a place where I share things with the world.
+    Content: Reposts/Random musings/Personal rants...
 
   author: Me
   showtoc: true
