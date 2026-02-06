@@ -1,6 +1,6 @@
 ---
 date: '2026-02-04T15:07:37+08:00'
-draft: true
+draft: false
 title: 'Re I Ship Code I Dont Read'
 tags: 
   - ai
