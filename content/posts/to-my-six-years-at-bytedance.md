@@ -85,3 +85,6 @@ title: '致我的字节六年'
 不想在死亡的那天，后悔自己还有很多事情没有做。与其在那一刻后悔没有珍惜时间，不如从当下出发，让他们真正属于自己。
 
 大家共勉！
+
+# Extra
+[一份谷歌离职报告](https://www.tinystruggles.com/posts/google_postmortem/)
