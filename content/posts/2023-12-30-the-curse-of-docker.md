@@ -11,6 +11,8 @@ tags:
     - repost
 ---
 
+> 🌐 [中文版](/posts/2023-12-30-the-curse-of-docker-zh)
+
 [The ORIGINAL post](https://computer.rip/2023-11-25-the-curse-of-docker.html) 
 
 [译](https://www.infoq.cn/article/8hmeeHoDOA0Sv4q2xTMY)

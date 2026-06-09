@@ -12,6 +12,8 @@ tags:
     - translated
 ---
 
+> 🌐 [English version](/posts/2023-12-30-the-curse-of-docker)
+
 此文为[原文](https://computer.rip/2023-11-25-the-curse-of-docker.html)的中文翻译，来自[InfoQ](https://www.infoq.cn/article/8hmeeHoDOA0Sv4q2xTMY)
 
 作者 | J. B. Crawford
