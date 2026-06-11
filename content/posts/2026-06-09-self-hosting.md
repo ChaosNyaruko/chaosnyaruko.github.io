@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "数字自留地"
-subtitle: 搭一套私人服务：便宜、可控、数据是你的
+subtitle: 从自托管开始构建属于自己的数字空间
 date: 2026-06-09
 author: ChaosNyaruko
 header-img: 
