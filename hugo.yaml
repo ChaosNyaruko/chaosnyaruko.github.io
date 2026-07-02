@@ -1,5 +1,5 @@
 baseURL:  'https://example.org/'
-languageCode: 'en-us'
+locale: 'en-us'
 title: "ChaosNyaruko' Digital Space"
 theme: 'PaperMod'
 pagination:
@@ -15,6 +15,11 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+
+security:
+  allowContent:
+    - '^text/markdown$'
+    - '^text/html$'
 
 params:
   homeInfoParams:
