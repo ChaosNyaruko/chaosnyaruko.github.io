@@ -1,7 +1,7 @@
 ---
 date: '2026-10-23T10:25:31+08:00'
 draft: false
-title: 'Book Review Thinking Fast and Slow'
+title: '《思考，快与慢》读后随笔'
 tags:
   - book-review
   - thinking-fast-and-slow
